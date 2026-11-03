@@ -17,7 +17,7 @@ lastUpdated: 2026-09-28
 
 ### [GitHub Copilot app 导览][copilot-app]
 
-从空文件夹构建色彩丰富的 Space Quiz，完成整个开发流程：创建、优化、测试、记录项目指令、发布、规划工作、实现议题、审查并合并拉取请求、自动化重复任务，以及探索 Canvas 扩展。
+从空文件夹构建色彩丰富的 Space Quiz，完成整个开发流程：创建、优化、测试、记录项目指令、发布、规划工作、实现议题、审查并合并拉取请求、自动化重复任务、探索 Canvas 工作流，并使用 GitHub Pages 部署网站。
 
 ### [GitHub Copilot CLI 入门][copilot-cli]
 
